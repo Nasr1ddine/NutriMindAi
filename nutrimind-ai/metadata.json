@@ -1,0 +1,7 @@
+{
+  "name": "NutriMind AI",
+  "description": "A comprehensive AI-driven nutrition tracking and meal recommendation platform blueprint and prototype.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
